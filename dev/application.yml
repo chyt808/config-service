@@ -1,0 +1,4 @@
+ihospital:
+  switch:
+    payment: true
+    auth: false
